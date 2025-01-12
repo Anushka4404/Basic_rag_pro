@@ -12,8 +12,7 @@ langchain-google-genai==2.0.8
 langchain-text-splitters==0.3.5
 pinecone==5.4.2
 pinecone-client==5.0.1
-pinecone-plugin-inference==1.1.0
-pinecone-plugin-interface==0.0.7
+pinecone-plugin-inference
 pypdf==5.1.0
 PyPDF2==3.0.1
 python-dotenv==1.0.1

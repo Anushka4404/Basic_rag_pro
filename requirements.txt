@@ -9,6 +9,7 @@ langchain
 langchain-community
 langchain-core
 langchain-google
+langchain-google-genai
 langchain-text-splitters
 pinecone
 pinecone-client
@@ -17,3 +18,5 @@ pypdf
 PyPDF2
 python-dotenv
 streamlit
+dotenv
+os

@@ -5,10 +5,10 @@ google-ai-generativelanguage
 google-api-core
 google-api-python-client
 google-generativeai
+langchain
 langchain-community
 langchain-google-genai
 pinecone-client
 pypdf
-langchain==0.0.196
-streamlit==1.25.0
-python-dotenv==1.0.0
+python-dotenv
+streamlit
